@@ -1,2 +1,2 @@
 # cos430
-A demo repository
+This is a demo repository!
